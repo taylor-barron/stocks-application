@@ -1,0 +1,3 @@
+Course assignment to use wxPython and an API to launch an application that provides real time gains/losses in a user interface. The user data pulled from a local database is compared against the real time value of stocks.
+
+This project shows the ability to use wxPython to create a desktop application and the ability to use an API to process data. This project also requires the use of sqlite3 to work with the database.
